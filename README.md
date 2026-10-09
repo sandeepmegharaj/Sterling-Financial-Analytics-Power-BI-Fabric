@@ -1,5 +1,4 @@
 # Sterling-Financial-Analytics-Power-BI-Fabric
-### Live Demo
 
 [Click here for Documentation Full Fledged ](https://sandeepmegharaj.github.io/Sterling-Financial-Analytics-Power-BI-Fabric/)
 
